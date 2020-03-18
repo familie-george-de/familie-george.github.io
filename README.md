@@ -1,5 +1,3 @@
-Brad Traversy
+## Rubbish Website
 
-Build An HTML5 Website With A Responsive Layout
-
-www.youtube.com/watch?v=Wm6CUkswsNw
+Just a website to hold the domain
